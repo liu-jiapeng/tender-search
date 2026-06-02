@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Business Intelligence",
+      "skills": ["tender-search"]
+    },
+    {
+      "title": "Procurement",
+      "skills": ["tender-search"]
+    }
+  ]
+}
